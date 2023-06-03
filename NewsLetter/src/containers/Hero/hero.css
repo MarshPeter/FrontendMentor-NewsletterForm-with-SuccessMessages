@@ -1,0 +1,13 @@
+.div__hero {
+  background-color: var(--White);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  height: 70vh;
+  width: 75%;
+  margin: auto;
+  border-radius: 30px;
+  padding: 2rem;
+  gap: 1rem;
+}
